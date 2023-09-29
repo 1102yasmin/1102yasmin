@@ -3,7 +3,7 @@
     background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnutgreen.com.br%2Fwp-content%2Fuploads%2F2019%2F06%2FDicas-fundamentais-sobre-sa%25C3%25BAde-e-bem-estar.jpg&f=1&nofb=1&ipt=232b345ecffec8b7aa408c57be26386bb79d76e655bea15d89a598ed17d6d86c&ipo=images" );
     height: 100vh;
     width: 100vw;
-    color:black;
+    color:bisque;
     background-size: cover;
     text-align: center;
     display: flex;
@@ -19,7 +19,7 @@
 button {
     background: transparent;
     text-transform: uppercase ;
-    border-color:blue;
+    border-color:bisque;
     animation: 1s ease-in-out;
     padding: 14px;
 }
